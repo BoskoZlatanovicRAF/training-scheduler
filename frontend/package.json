@@ -1,0 +1,35 @@
+{
+  "name": "front-end-sk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-vue-schedule": "^24.1.41",
+    "@vue/babel-plugin-jsx": "^1.1.6",
+    "axios": "^1.6.5",
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue-next": "^0.15.5",
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13",
+    "vue-class-component": "^8.0.0-rc.1",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0",
+    "vuex-persist": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
